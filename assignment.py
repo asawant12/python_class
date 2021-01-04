@@ -16,7 +16,7 @@ if cricket_player == "bhuvneshwar" in cricket_players:
 else :
   print("not found")
   
-  output
+ # output
   
 #  ['ajinkya', 'virat', 'jadeja', 'bumrah', 'bhuvneshwar']
 #ajinkya
